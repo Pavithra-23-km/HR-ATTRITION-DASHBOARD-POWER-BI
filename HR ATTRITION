@@ -1,0 +1,17 @@
+# HR Attrition Dashboard - Power BI
+
+## Problem
+Analyze why employees leave - Sales attrition 20.6% highest
+
+## Tools: Power BI, DAX
+
+## Key Insights
+- Total Employees: 1470, Attrition 16.1%
+- Sales Dept needs retention focus
+- R&D lowest attrition - replicate practices
+
+## Dashboard
+![Dashboard](your-screenshot-name.png)
+
+## DAX Measures Used
+Attrition Rate = DIVIDE(COUNT(attrition), TOTAL employees)
